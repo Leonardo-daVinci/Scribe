@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scribe</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="username">Username</string>
+    <string name="loading">Loading</string>
+    <string name="create_account">Creating your account</string>
+    <string name="login_account">Logging into your account</string>
+    <string name="hot_arrivals">Hot Arrivals</string>
+    <string name="account">Account</string>
+    <string name="or">or</string>
+</resources>
